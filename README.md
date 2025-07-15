@@ -41,15 +41,15 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 
 ---
 
-## 📂 Proyectos Destacados
+## Proyectos Destacados
 
-- 🔍 **Plataforma de Scraping & Visualización con LLM**
+- **Plataforma de Scraping & Visualización con LLM**
   - [Repositorio](https://github.com/usuario/proyecto1)
   - Usa Python, Flask, PostgreSQL, Selenium y GPT-4o para automatizar scraping y análisis de datos.
 
-- 🧪 **Sistema de Inspecciones Vehiculares con Laravel + Filament**
+- 🧪 **Tienda virtual Fake**
   - [Repositorio](https://github.com/usuario/proyecto2)
-  - Registro de inspecciones, agrupación de datos por categoría, generación de reportes PDF y mucho más.
+  - Creacion de una tienda virtual utilizando la API Fake de platzi, con Java, Javafx y Mysql
 
 ---
 
