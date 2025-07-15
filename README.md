@@ -43,30 +43,43 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 
 ## Proyectos Destacados
 
-- **Plataforma de Scraping & Visualización con LLM**
-  - [Repositorio](https://github.com/usuario/proyecto1)
-  - Usa Python, Flask, PostgreSQL, Selenium y GPT-4o para automatizar scraping y análisis de datos.
 
-- 🧪 **Tienda virtual Fake**
-  - [Repositorio](https://github.com/usuario/proyecto2)
+
+- **CRUD basico con Spring**
+  - [Repositorio](https://github.com/JustinRodGon/SpringBootCrud.git)
+  - Creacion de CRUD basico con spring tutorial
+
+- **Tienda virtual Fake**
+  - [Repositorio](https://github.com/jeftedariel/Burton.git)
   - Creacion de una tienda virtual utilizando la API Fake de platzi, con Java, Javafx y Mysql
+ 
+ ## Proyectos Practicos 
+
+ 
+- **Practica de estructuras de bases de datos**
+  - [Repositorio](https://github.com/JustinRodGon/Practicas_Estruc_Data.git)
+  - Practicas de diferentes estructuras de datos como arboles, listas, colas, Pilas
+ 
+    
+- **Proyecto de Redes**
+  - [Repositorio](https://github.com/JustinRodGon/Proyecto-Redes.git)
+  - Creacion de proyecto con diferentes conceptos sobre redes .pkt
 
 ---
 
-## 🎓 Educación
+## Educación
 
-- 💻 **Universidad Técnica Nacional (UTN)**
+-  **Universidad Técnica Nacional (UTN)**
   - Carrera: Ingeniería en Tecnologías de la Información
   - Estado: En curso
 
 ---
 
-## 📫 Contacto
+## Contacto
 
-- ✉️ Email: [tuemail@gmail.com](mailto:tuemail@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/justinrodriguez](https://linkedin.com/in/justinrodriguez)
-- 🌐 Portafolio: *(próximamente)*
+- ✉️ Email: [tuemail@gmail.com](jezusucr@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/justinrodriguez](www.linkedin.com/in/jesús-rodriguez-a86b7a339)
+
 
 ---
 
-> 🧠 Siempre aprendiendo, siempre construyendo. Apasionado por la tecnología y el impacto que puede tener en las personas.
