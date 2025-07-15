@@ -4,19 +4,19 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 
 ---
 
-## 🚀 Tecnologías y herramientas que uso
+##  Tecnologías y herramientas que uso
 
-### 🧠 Lenguajes & Frameworks
+### Lenguajes & Frameworks
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbahiaxip.com%2Fentrada%2Fmodels-en-laravel&psig=AOvVaw2lnT511dAwURRMmeaQ3oxk&ust=1752706434579000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjAuLX6v44DFQAAAAAdAAAAABAE)" alt="Laravel" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/filamentphp/filament/main/art/logo-mark-gradient.svg" alt="FilamentPHP" width="40" height="40"/>
+  <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="FilamentPHP" width="40" height="40"/>
 </p>
 
-### 🗄️ Bases de datos
+### Bases de datos
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
@@ -24,19 +24,19 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
 </p>
 
-### 🌐 Frontend y Web
+### Frontend y Web
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
 </p>
 
-### 🐧 Sistemas y redes
+### Sistemas y redes
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/00/Cisco_Packet_Tracer_Logo.png" alt="Packet Tracer" width="40" height="40"/>
-  <img src="https://www.gns3.com/assets/images/logo.svg" alt="GNS3" width="40" height="40"/>
+  <img src="https://www.startertutorials.com/blog/wp-content/uploads/2024/08/Cisco-Packet-Tracer-CPT.png" alt="Packet Tracer" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/>
 </p>
 
 ---
