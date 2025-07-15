@@ -83,8 +83,8 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 
 ## Contacto
 
-- ✉️ Email: [tuemail@gmail.com](jezusucr@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/justinrodriguez](www.linkedin.com/in/jesús-rodriguez-a86b7a339)
+- ✉️ Email: [jezusucr@gmail.com](jezusucr@gmail.com)
+- 💼 LinkedIn: [www.linkedin.com/in/jesús-rodriguez-a86b7a339](www.linkedin.com/in/jesús-rodriguez-a86b7a339)
 
 
 ---
