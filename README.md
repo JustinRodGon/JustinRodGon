@@ -1,6 +1,6 @@
-# 👋 Hola, soy Justin Rodríguez
+Justin Rodríguez
 
-Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN Costa Rica 🇨🇷. Me apasiona el desarrollo de software, la ciberseguridad, el backend con Laravel y Spring, así como la automatización de tareas con Linux y scripting.
+Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN Costa Rica 🇨🇷.
 
 ---
 
@@ -11,7 +11,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" alt="Laravel" width="40" height="40"/>
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbahiaxip.com%2Fentrada%2Fmodels-en-laravel&psig=AOvVaw2lnT511dAwURRMmeaQ3oxk&ust=1752706434579000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCKjAuLX6v44DFQAAAAAdAAAAABAE)" alt="Laravel" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/filamentphp/filament/main/art/logo-mark-gradient.svg" alt="FilamentPHP" width="40" height="40"/>
 </p>
