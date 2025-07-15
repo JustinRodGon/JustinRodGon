@@ -52,6 +52,12 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 - **Tienda virtual Fake**
   - [Repositorio](https://github.com/jeftedariel/Burton.git)
   - Creacion de una tienda virtual utilizando la API Fake de platzi, con Java, Javafx y Mysql
+
+- **Estacion meteorologica**
+  - [Repositorio](https://github.com/jeftedariel/estacion-meteorologica.git)
+  - Creacion de un simulador con Arduinos, con recollecion de datos por medio de sensores
+ 
+  
  
  ## Proyectos Practicos 
 
