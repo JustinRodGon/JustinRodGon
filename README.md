@@ -56,6 +56,12 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
 - **Estacion meteorologica**
   - [Repositorio](https://github.com/jeftedariel/estacion-meteorologica.git)
   - Creacion de un simulador con Arduinos, con recollecion de datos por medio de sensores
+  - 
+  
+- **Estaciones de Tren**
+  - [Repositorio](https://github.com/JustinRodGon/Tren-Logico)
+  - Tren Lógico es un proyecto desarrollado en C++ que modela la estructura y funcionamiento de un tren utilizando distintas estructuras de datos dinámicas.
+  - 
  
   
  
