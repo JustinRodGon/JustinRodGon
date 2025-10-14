@@ -24,13 +24,6 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
 </p>
 
-### Frontend y Web
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-</p>
-
 ### Sistemas y redes
 
 <p align="left">
