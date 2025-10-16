@@ -12,8 +12,7 @@ Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" width="40" height="40"/>
-  <img src="https://pbs.twimg.com/profile_images/1619675369333788674/FVauPXtT_400x400.jpg" alt="FilamentPHP" width="40" height="40"/>
+
 </p>
 
 ### Bases de datos
