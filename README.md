@@ -1,89 +1,112 @@
-Justin Rodríguez
+#  Justin Rodríguez
 
-Soy estudiante de Ingeniería en Tecnologías de la Información (ITI) en la UTN Costa Rica 🇨🇷.
+ **Estudiante de Ingeniería en Tecnologías de la Información**  
+ **Universidad Técnica Nacional (UTN)** – Costa Rica 🇨🇷  
+ Apasionado por el desarrollo de software, redes y soluciones tecnológicas innovadoras  
 
 ---
 
-##  Tecnologías y herramientas que uso
+##  Stack Tecnológico
 
-### Lenguajes & Frameworks
+###  Lenguajes & Frameworks
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="Laravel" width="40" height="40"/>
+###  Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 
+###  Infraestructura & Redes
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![GNS3](https://img.shields.io/badge/GNS3-00A8E1?style=for-the-badge)
+
+###  Herramientas de Desarrollo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge&logo=java&logoColor=white)
+
+---
+
+##  Proyectos Destacados
+
+###  Tren Lógico | C++
+🔗 **Repositorio:** https://github.com/JustinRodGon  
+Simulación de un sistema ferroviario implementando estructuras de datos dinámicas para modelar la lógica de operaciones de trenes.  
+**Tecnologías:** C++, Estructuras de Datos, Algoritmos  
+
+---
+
+###  Tienda Virtual Fake | Java, JavaFX, MySQL
+🔗 **Repositorio:** https://github.com/JustinRodGon  
+Aplicación de escritorio para la gestión de una tienda virtual conectada a una API externa con interfaz gráfica completa.  
+**Tecnologías:** Java, JavaFX, MySQL, API REST  
+
+---
+
+###  Estación Meteorológica con Arduino
+🔗 **Repositorio:** https://github.com/JustinRodGon  
+Sistema IoT para la recolección de datos ambientales mediante sensores conectados a microcontroladores Arduino.  
+**Tecnologías:** Arduino, Sensores, Electrónica, C++  
+
+---
+
+###  CRUD Spring Boot | Java
+🔗 **Repositorio:** https://github.com/JustinRodGon  
+Aplicación web completa con operaciones CRUD desarrollada con Spring Boot.  
+**Tecnologías:** Java, Spring Boot, MVC, Base de Datos  
+
+---
+
+##  Proyectos Académicos
+
+###  Simulación de Redes con Packet Tracer
+🔗 **Repositorio:** https://github.com/JustinRodGon  
+Configuración y simulación de redes empresariales implementando protocolos de enrutamiento, VLANs y seguridad.  
+**Conceptos:** Routing, Switching, VLANs, Seguridad de Red  
+
+---
+
+###  Implementación de Estructuras de Datos
+🔗 **Repositorio:** https://github.com/JustinRodGon  
+Colección de implementaciones prácticas de estructuras de datos fundamentales en Java.  
+**Estructuras:** Árboles, Listas Enlazadas, Pilas, Colas, Grafos  
+
+---
+
+##  Educación
+
+ **Universidad Técnica Nacional (UTN)** – Costa Rica  
+ **Ingeniería en Tecnologías de la Información** *(En curso)*  
+
+**Cursos relevantes:**
+- Estructuras de Datos y Algoritmos  
+- Bases de Datos Avanzadas  
+- Redes de Computadoras  
+- Programación Orientada a Objetos  
+- Desarrollo Web  
+
+---
+
+##  Contacto
+
+<p align="center">
+  <a href="mailto:jezusucr@gmail.com">
+    <img src="https://img.shields.io/badge/Email-jezusucr@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-Jesús_Rodríguez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/JustinRodGon">
+    <img src="https://img.shields.io/badge/GitHub-JustinRodGon-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
-### Bases de datos
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original.svg" alt="MariaDB" width="40" height="40"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/UTN_Costa_Rica-Altamente_Calificado-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Desarrollador_en_Formación-ITI_UTN-green?style=for-the-badge"/>
 </p>
-
-### Sistemas y redes
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.startertutorials.com/blog/wp-content/uploads/2024/08/Cisco-Packet-Tracer-CPT.png" alt="Packet Tracer" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8f/GNS3_logo.png" alt="GNS3" width="40" height="40"/>
-</p>
-
----
-
-## Proyectos Destacados
-
-
-
-- **CRUD basico con Spring**
-  - [Repositorio](https://github.com/JustinRodGon/SpringBootCrud.git)
-  - Creacion de CRUD basico con spring tutorial
-
-- **Tienda virtual Fake**
-  - [Repositorio](https://github.com/jeftedariel/Burton.git)
-  - Creacion de una tienda virtual utilizando la API Fake de platzi, con Java, Javafx y Mysql
-
-- **Estacion meteorologica**
-  - [Repositorio](https://github.com/jeftedariel/estacion-meteorologica.git)
-  - Creacion de un simulador con Arduinos, con recollecion de datos por medio de sensores
-  - 
-  
-- **Estaciones de Tren**
-  - [Repositorio](https://github.com/JustinRodGon/Tren-Logico)
-  - Tren Lógico es un proyecto desarrollado en C++ que modela la estructura y funcionamiento de un tren utilizando distintas estructuras de datos dinámicas.
-  - 
- 
-  
- 
- ## Proyectos Practicos 
-
- 
-- **Practica de estructuras de bases de datos**
-  - [Repositorio](https://github.com/JustinRodGon/Practicas_Estruc_Data.git)
-  - Practicas de diferentes estructuras de datos como arboles, listas, colas, Pilas
- 
-    
-- **Proyecto de Redes**
-  - [Repositorio](https://github.com/JustinRodGon/Proyecto-Redes.git)
-  - Creacion de proyecto con diferentes conceptos sobre redes .pkt
-
----
-
-## Educación
-
--  **Universidad Técnica Nacional (UTN)**
-  - Carrera: Ingeniería en Tecnologías de la Información
-  - Estado: En curso
-
----
-
-## Contacto
-
-- ✉️ Email: [jezusucr@gmail.com](jezusucr@gmail.com)
-- 💼 LinkedIn: [www.linkedin.com/in/jesús-rodriguez-a86b7a339](www.linkedin.com/in/jesús-rodriguez-a86b7a339)
-
-
----
 
